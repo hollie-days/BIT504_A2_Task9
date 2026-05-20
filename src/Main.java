@@ -8,7 +8,5 @@ public class Main {
         System.out.println("BIT504 Assessment 2 - Task 9");
         System.out.println("This is my second commit on a new branch!");
         System.out.println("Learning about source and version control.");
-        System.out.println("This is my third commit on another new branch!");
-        System.out.println("Practicing merging and pull requests.");
     }
 }
